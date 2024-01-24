@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZGUzUMEBM6+YA33jXngwhdu40FmFtCCFWoh1mDjqxk8sRV8MWnmfHW/hvHxMYl/Z4pdyxxa+CZe9yRZbIxHFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Indio\\Desktop\\Developer\\Musculos\\Musculos\\ShareKernel\\ShareKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Indio\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Indio\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Indio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

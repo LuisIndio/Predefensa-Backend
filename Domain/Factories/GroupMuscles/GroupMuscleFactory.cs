@@ -1,0 +1,17 @@
+﻿using Domain.Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Domain.Factories.GroupMuscle
+{
+    public class GroupMuscleFactory : IGroupMuscleFactory
+    {
+        public MuscleGroup CreateGroupMuscle(string name)
+        {
+            return new MuscleGroup(name);
+        }
+    }
+}
